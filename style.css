@@ -69,3 +69,10 @@
 .age{
     font-size: 25px;
 }
+.currentAge{
+    display: none;
+    font-size: 25px;
+}
+.currentAge span{
+    color: #ffff76;
+}
